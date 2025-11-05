@@ -1,16 +1,16 @@
-<h1 align="center">👋 Olá! Eu sou o João Lucas Ramos dos Santos</h1>
+<h1 align="center"> Olá! Eu sou o João Lucas Ramos dos Santos</h1>
 
 <p align="center">
-  💻 <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong> <br>
-  🌍 Olinda - Pernambuco, Brasil <br>
-  📫 <a href="mailto:jlucassantosramos@email.com">jlucassantosramos@email.com</a> | 
+   <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong> <br>
+   Olinda - Pernambuco, Brasil <br>
+   <a href="mailto:jlucassantosramos@email.com">jlucassantosramos@email.com</a> | 
   <a href="https://linkedin.com/in/jlucaszz1" target="_blank">LinkedIn</a> | 
   <a href="https://github.com/Jlucas-1" target="_blank">GitHub</a>
 </p>
 
 ---
 
-### 🚀 Sobre mim
+###  Sobre mim
 
 Sou um **profissional de TI** com mais de dois anos de experiência diversificada em **suporte técnico, análise de sistemas e banco de dados**.  
 Tenho grande interesse por **desenvolvimento backend, automação e infraestrutura**, buscando sempre transformar ideias em soluções práticas e eficientes.
@@ -19,7 +19,7 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas ** e estou me especia
 
 ---
 
-### 🧠 Habilidades Técnicas
+###  Habilidades Técnicas
 
 - **Linguagens:** Java, C#, JavaScript, TypeScript, Python (básico)  
 - **Frameworks:** Spring Boot, .NET Framework  
@@ -30,7 +30,7 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas ** e estou me especia
 
 ---
 
-### 🌱 Em aprendizado contínuo...
+### Em aprendizado contínuo...
 
 Atualmente focado em:
 - Desenvolvimento backend com **Java + Spring Boot**
