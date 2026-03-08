@@ -1,39 +1,43 @@
-<h1 align="center"> Olá! Eu sou o João Lucas Ramos dos Santos</h1>
+<h1 align="center">Olá, bem vindo ao meu Github!</h1>
 
-<p align="center">
-   <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong> <br>
-   Olinda - Pernambuco, Brasil <br>
-   <a href="mailto:jlucassantosramos@email.com">jlucassantosramos@email.com</a> | 
-  <a href="https://linkedin.com/in/jlucaszz1" target="_blank">LinkedIn</a> | 
-  <a href="https://github.com/Jlucas-1" target="_blank">GitHub</a>
-</p>
+###
 
----
+<p align="center">Sou um profissional de TI com mais de dois anos de experiência diversificada em suporte técnico, análise de sistemas e banco de dados.<br>Tenho grande interesse por desenvolvimento backend, automação e infraestrutura, buscando sempre transformar ideias em soluções práticas e eficientes.</p>
 
-###  Sobre mim
+###
 
-Sou um **profissional de TI** com mais de dois anos de experiência diversificada em **suporte técnico, análise de sistemas e banco de dados**.  
-Tenho grande interesse por **desenvolvimento backend, automação e infraestrutura**, buscando sempre transformar ideias em soluções práticas e eficientes.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+</div>
 
-Atualmente, curso **Análise e Desenvolvimento de Sistemas ** e estou me especializando em tecnologias como **Java, Spring Boot, .NET, SQL e Docker**
+###
 
----
+<div align="left">
+  <a href="https://www.linkedin.com/in/jlucaszz1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-###  Habilidades Técnicas
+###
 
-- **Linguagens:** Java, C#, JavaScript, TypeScript, Python (básico)  
-- **Frameworks:** Spring Boot, .NET Framework  
-- **Banco de Dados:** PostgreSQL, MongoDB, SQL  
-- **Infraestrutura:** Docker, Linux, Redes  
-- **Ferramentas:** Git, Postman, Swagger, Visual Studio Code  
-- **Metodologias:** Scrum, Kanban, DevOps (conceitos básicos)
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/Jlucas-1/Jlucas-1/output/snake.svg" alt="Snake animation" />
 
-### Em aprendizado contínuo...
-
-Atualmente focado em:
-- Desenvolvimento backend com **Java + Spring Boot**
-- Práticas de **arquitetura limpa e boas práticas de código**
-- **Automação de infraestrutura com Docker e Terraform**
-
+###
