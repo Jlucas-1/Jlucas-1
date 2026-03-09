@@ -29,7 +29,7 @@ Estudante avançado de **Análise e Desenvolvimento de Sistemas** com sólida ba
 
 ### 📫 Vamos nos conectar?
 - **LinkedIn:** [linkedin.com/in/jlucaszz1](https://www.linkedin.com/in/jlucaszz1/)
-- **Email:** [jlucassantosramos@email.com](mailto:jlucassantosramos@gmail.com)
+- **Email:** [jlucassantosramos@gmail.com](mailto:jlucassantosramos@gmail.com)
 - **GitHub:** [github.com/Jlucas-1](https://github.com/Jlucas-1)
 
 ---
